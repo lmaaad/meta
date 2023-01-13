@@ -15,8 +15,9 @@ body {
   font-size: 14px;
 }
 .chatbot{
-  position: relative;
-  left: 40%;
+  position: flex;
+  
+  margin-left: 5%;
 }
 
 /* line 9, ../../01 cl html template/03_jun 2019/185 Ecobit SAAS html/sass/_common.scss */
